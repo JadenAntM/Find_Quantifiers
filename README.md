@@ -1,5 +1,5 @@
 # Find_Quantifiers
-This Python and Java script provides a simple expression analyzer for mathematical or logical expressions. It takes an input expression containing bounded and free variables separated by the '|' symbol and identifies and prints the bounded and free variables. Both scripts do the same thing, in different languages.
+This Python and Java script provides a simple expression analyzer for mathematical or logical expressions. It takes an input expression containing bounded and free variables separated by the '|' symbol and identifies and prints the bounded and free variables. Both scripts do the same thing in different languages.
 
 ## Images of script
 ![image](https://github.com/JadenAntM/Find_Quantifiers/assets/144370058/d6d2fff3-12b2-41f2-9fa1-a6dc6381c8dc)
