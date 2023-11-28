@@ -12,7 +12,7 @@ This Python and Java script provides a simple expression analyzer for mathematic
 2. Download the zip file and run the Python script on IDE
 3. Input your expression
 
-## Java
+### Java
 1. Install Java v.17 or later and install IntelliJ or similar
 2. Download the zip file and run the Java script on IDE
 3. Input your expressions
